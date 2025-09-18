@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-Bachelor of Informatics Engineering from Pamulang University. Experienced as a Web Developer and a highly
-enthusiastic individual in developing modern web applications with the latest technologies. Currently
-working as a Frontend Developer at PT Sinar Sakti Internasional.
+<div style="display: flex; justify-content: space-between;">
+  <p>
+    Bachelor of Informatics Engineering from Pamulang University. Experienced as a Web Developer and a highly
+    enthusiastic individual in developing modern web applications with the latest technologies. Currently
+    working as a Frontend Developer at PT Sinar Sakti Internasional.
+  </p>
+  <div>
+    <img alt="GIF" src="https://github.com/itshadis/itshadis/blob/master/coding-pixel.gif?raw=true" width="300" height="auto" border="20" />
+  </div>
+</div>
+
 
 ---
 

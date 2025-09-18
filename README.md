@@ -33,3 +33,10 @@ working as a Frontend Developer at PT Sinar Sakti Internasional.
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshadis&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=nightowl"/>
 </p>
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/itshadis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://its-hadis-portfolio.netlify.app)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=itshadis.itshadis)

@@ -41,9 +41,7 @@
 ---
 
 ### 📊 My Repo Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshadis&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=nightowl"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itshadis&layout=compact&theme=radical)
 
 ---
 

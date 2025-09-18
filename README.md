@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm **Hadis** 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <p>
-    Bachelor of Informatics Engineering from Pamulang University. Experienced as a Web Developer and a highly
-    enthusiastic individual in developing modern web applications with the latest technologies. Currently
-    working as a Frontend Developer at PT Sinar Sakti Internasional.
-  </p>
-  <div>
-    <img alt="GIF" src="https://github.com/itshadis/itshadis/blob/master/coding-pixel.gif?raw=true" width="300" height="auto" border="20" />
-  </div>
-</div>
+<img align="right" alt="GIF" src="https://github.com/itshadis/itshadis/blob/main/coding-pixel.gif?raw=true" width="320" border="20" />
+<p>
+  Bachelor’s degree in Computer Science, majoring in Informatics Engineering, from Pamulang 
+  University. From the very beginning, I have had a strong passion for technology, particularly in programming.
+  For me, coding is not just a skill but a way to bring ideas to life, transforming 
+  abstract concepts into functional applications.
+  This enthusiasm drives me to continually improve my coding abilities and stay up to date with the latest developments in the tech world.
+  I take pride in solving problems and building applications that can make a positive impact.
+</p>
 
+<br />
+<br />
+<br />
+<br />
 
 ---
 
